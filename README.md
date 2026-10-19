@@ -1,15 +1,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=800&color=BB9AF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Mohamed+Sadeg+Mohamed+Hassan;Software+%26+Biomedical+Engineering+Enthusiast;Programming+Ideas+Into+Practical+Projects" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=800&color=BB9AF7&center=true&vCenter=true&width=850&height=120&lines=Hi%2C+I'm+Mohamed+Sadeg;Mohamed+Hassan;Software+%26+Biomedical+Engineering;Programming+Ideas+Into+Practical+Projects" alt="Animated banner for Mohamed Sadeg Mohamed Hassan" />
 
-<br/>
+<img src="https://img.shields.io/badge/GitHub-Sadeg--xy-24283B?style=for-the-badge&logo=github&logoColor=BB9AF7" />
+<img src="https://img.shields.io/badge/THEME-TOKYO%20NIGHT-7AA2F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-Biomedical%20Technology-9ECE6A?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/GitHub-Sadeg--xy-24283B?style=for-the-badge&logo=github&logoColor=BB9AF7" alt="GitHub profile" />
-<img src="https://img.shields.io/badge/THEME-TOKYO%20NIGHT-7AA2F7?style=for-the-badge" alt="Tokyo Night theme" />
-<img src="https://img.shields.io/badge/FOCUS-Software%20%26%20Biomedical%20Technology-9ECE6A?style=for-the-badge" alt="Focus" />
-
-### Curious about code. Inspired by engineering. Focused on useful solutions.
+### 💜 Curious about code. Inspired by engineering. Focused on useful solutions.
 
 [About Me](#-about-me) • [Tech Stack](#-technology-toolkit) • [Biomedical Projects](#-biomedical-engineering-project-ideas) • [GitHub Stats](#-github-activity)
 
@@ -29,7 +27,9 @@ I'm interested in programming, software development, and the intersection of tec
 - 🌱 **Mindset:** Learning by building, documenting, and improving projects
 - 🎯 **Goal:** Develop useful, reliable, and thoughtfully designed software
 
-> This profile includes proposed project concepts for learning and portfolio development. Only projects actually implemented should be described as completed work.
+> Biomedical project concepts below are proposed portfolio ideas, not claims of completed work or clinically validated devices.
+
+---
 
 ## 🛠️ Technology Toolkit
 
@@ -39,161 +39,161 @@ I'm interested in programming, software development, and the intersection of tec
 
 </div>
 
-### Technologies I'm exploring
-
 | Technology | Potential applications |
 |---|---|
-| C | Programming fundamentals, data structures, and embedded-system exercises |
-| Python | Data processing, visualization, and scientific computing |
-| Java | Object-oriented programming and application development |
-| HTML | Structuring web pages |
-| CSS | Styling responsive websites |
-| Git & GitHub | Version control, project documentation, and collaboration |
+| C | Programming fundamentals, data structures, embedded-system exercises |
+| Python | Scientific computing, data processing, visualization |
+| Java | Object-oriented programming, application development |
+| HTML | Web page structure |
+| CSS | Responsive website design |
+| Git & GitHub | Version control, documentation, collaboration |
+
+---
 
 ## 🧬 Biomedical Engineering Project Ideas
 
-These concepts can be developed into educational software projects. They are ideas to explore, not claims of completed projects or clinically validated medical devices.
+These are educational project concepts to explore and develop. They should be moved to a completed-project portfolio only after implementation.
 
 <details>
 <summary><b>01. Biomedical Signal Visualizer</b></summary>
 
-Build a Python application that imports sample ECG or other educational signal data, plots waveforms, and lets users inspect time ranges and basic signal characteristics.
+Create a Python application to plot sample ECG or other educational signals and inspect their characteristics.
 
-**Possible tools:** Python, NumPy, Matplotlib, SciPy
+**Tools:** Python, NumPy, Matplotlib, SciPy
 
-**Learning goals:** Signal visualization, sampling, filtering concepts, and data processing.
+**Learn:** Signal visualization, sampling, and data processing.
 
-**Safety:** Educational visualization only; not intended for diagnosis.
+Educational use only; not intended for diagnosis.
 </details>
 
 <details>
 <summary><b>02. ECG Signal Processing Sandbox</b></summary>
 
-Create a demonstration that compares raw and filtered sample waveforms and explains noise, sampling rates, and signal-processing methods.
+Compare raw and filtered sample waveforms and explore noise and filtering methods.
 
-**Possible tools:** Python, SciPy, Matplotlib
+**Tools:** Python, SciPy, Matplotlib
 
-**Learning goals:** Digital signal processing, visualization, and reproducible experiments.
+**Learn:** Digital signal processing and reproducible experiments.
 </details>
 
 <details>
 <summary><b>03. Health Data Visualization Dashboard</b></summary>
 
-Build a dashboard that displays fictional measurements over time using graphs, readable labels, and basic summary statistics.
+Display fictional measurements over time with graphs, labels, and summary statistics.
 
-**Possible tools:** Python, Streamlit, Plotly
+**Tools:** Python, Streamlit, Plotly
 
-**Learning goals:** Data visualization, interface design, and privacy-aware development.
+**Learn:** Data visualization and privacy-aware design.
 </details>
 
 <details>
 <summary><b>04. Biomedical Equipment Maintenance Tracker</b></summary>
 
-Develop an application to organize equipment inventory, maintenance dates, service records, and reminders.
+Track equipment inventory, service dates, maintenance records, and reminders.
 
-**Possible tools:** Java or Python, SQLite, HTML, CSS
+**Tools:** Java or Python, SQLite, HTML, CSS
 
-**Learning goals:** Database management, input validation, and software design.
+**Learn:** Database management and software design.
 </details>
 
 <details>
 <summary><b>05. Medical Sensor Data Simulator</b></summary>
 
-Create a simulator that generates fictional sensor readings and visualizes the effects of noise, sampling, and missing data.
+Generate simulated sensor readings and visualize noise, sampling, and missing data.
 
-**Possible tools:** C or Python
+**Tools:** C or Python
 
-**Learning goals:** Simulation, programming fundamentals, and testing.
+**Learn:** Simulation and programming fundamentals.
 
-This is a simulation, not a real patient-monitoring device.
+This is not a real patient-monitoring device.
 </details>
 
 <details>
 <summary><b>06. Accessible Medication Schedule Interface</b></summary>
 
-Design an interface mock-up for organizing user-entered schedule information with readable typography and clear reminders.
+Design a mock-up for organizing user-entered schedule information with accessible text and clear reminders.
 
-**Possible tools:** Java, Python, HTML, CSS
+**Tools:** Java, Python, HTML, CSS
 
-**Learning goals:** Accessibility, usability, and responsible handling of personal data.
+**Learn:** Accessibility and usability.
 
-The application should not recommend medications or dosages.
+Do not provide medication or dosage recommendations.
 </details>
 
 <details>
 <summary><b>07. Biomedical Image Processing Demo</b></summary>
 
-Use appropriate public or synthetic images to demonstrate image enhancement, thresholding, and segmentation concepts.
+Demonstrate image enhancement, thresholding, and segmentation using suitable public or synthetic images.
 
-**Possible tools:** Python, OpenCV, NumPy, Matplotlib
+**Tools:** Python, OpenCV, NumPy, Matplotlib
 
-**Learning goals:** Image processing and computer vision.
-
-Not intended for clinical image interpretation.
+**Learn:** Image processing and computer vision.
 </details>
 
 <details>
 <summary><b>08. Hospital Inventory Management System</b></summary>
 
-Create a prototype to track fictional medical supplies, stock levels, categories, and inventory records.
+Manage fictional medical supplies, inventory levels, categories, and records.
 
-**Possible tools:** Java or Python, SQLite, HTML, CSS
+**Tools:** Java or Python, SQLite
 
-**Learning goals:** CRUD operations, database design, searching, and reporting.
+**Learn:** CRUD operations, databases, search, and reporting.
 </details>
 
 <details>
 <summary><b>09. Biomedical Engineering Unit Converter</b></summary>
 
-Build a utility for selected engineering units with validated conversions, clear labels, and automated test cases.
+Build a conversion utility with validated calculations and automated test cases.
 
-**Possible tools:** C, Java, or Python
+**Tools:** C, Java, or Python
 
-**Learning goals:** Numerical accuracy, input validation, and software testing.
+**Learn:** Numerical accuracy and testing.
 </details>
 
 <details>
 <summary><b>10. Wearable Sensor Data Explorer</b></summary>
 
-Explore suitable public or synthetic time-series data and visualize trends, missing values, and summary statistics.
+Visualize public or synthetic time-series data and examine trends and missing values.
 
-**Possible tools:** Python, Pandas, Matplotlib
+**Tools:** Python, Pandas, Matplotlib
 
-**Learning goals:** Data cleaning, time-series visualization, and reproducible analysis.
+**Learn:** Data cleaning and time-series analysis.
 </details>
 
 <details>
 <summary><b>11. Biomedical Engineering Learning Hub</b></summary>
 
-Create a responsive educational website with engineering explanations, a glossary, diagrams, and links to reliable learning resources.
+Build a responsive educational website with engineering explanations, a glossary, and learning resources.
 
-**Possible tools:** HTML, CSS, JavaScript
+**Tools:** HTML, CSS, JavaScript
 
-**Learning goals:** Responsive design, technical communication, and web development.
+**Learn:** Web development and technical communication.
 </details>
 
 <details>
 <summary><b>12. Biomedical Device Documentation Toolkit</b></summary>
 
-Create a reusable template for documenting project requirements, intended use, design decisions, tests, risks, limitations, and version history.
+Create templates for requirements, design notes, testing, risks, limitations, and version history.
 
-**Possible tools:** Markdown, Git, GitHub
+**Tools:** Markdown, Git, GitHub
 
-**Learning goals:** Traceability, reproducibility, and responsible engineering practice.
+**Learn:** Traceability and reproducible documentation.
 </details>
 
-### 📌 My Project Development Approach
+### 📌 Project Development Approach
 
-For projects I implement, I aim to document:
+For projects I implement, I aim to include:
 
-- The problem and intended purpose
-- Technologies and setup instructions
-- Source code and screenshots
-- Testing methods and results
+- A clear problem statement and intended purpose
+- Source code and setup instructions
+- Screenshots or example outputs
+- Tests and results
 - Dataset sources and licenses, where applicable
-- Known limitations and possible improvements
+- Known limitations and future improvements
 
-Biomedical prototypes should be clearly identified as educational projects unless appropriate validation and authorization support stronger claims.
+Biomedical prototypes must not be represented as validated medical devices without appropriate evidence.
+
+---
 
 ## 📊 GitHub Activity
 
@@ -207,7 +207,9 @@ Biomedical prototypes should be clearly identified as educational projects unles
 
 </div>
 
-> Statistics are generated by external services and may occasionally be unavailable. Language statistics reflect repository contents, not overall programming ability.
+> Statistics depend on external services and may occasionally be unavailable. Language statistics describe repository contents, not overall skill level.
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -217,16 +219,22 @@ Biomedical prototypes should be clearly identified as educational projects unles
 
 </div>
 
-*The contribution animation will appear after the GitHub Actions workflow generates and publishes the SVG file to the output branch.*
+*The snake appears after the GitHub Actions workflow generates and publishes the SVG to the `output` branch.*
 
 ---
 
+## 🌐 Find Me on GitHub
+
 <div align="center">
+
+<a href="https://github.com/Sadeg-xy">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Sadeg--xy-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile" />
+</a>
 
 ### 💜 Thanks for visiting my profile!
 
 **Keep learning. Keep building. Make technology useful.**
 
-<img src="https://komarev.com/ghpvc/?username=Sadeg-xy&style=flat-square&color=bb9af7" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Sadeg-xy&style=for-the-badge&color=bb9af7" alt="Profile views" />
 
 </div>
